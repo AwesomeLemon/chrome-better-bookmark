@@ -1,3 +1,8 @@
+This fork
+=========
+Default shortcut collides with 'make text bold' in Google Docs. I made shortcut 'Ctrl+M'.
+To change default shortcut to whatever you want, edit key "suggested key" in manifest.json.
+
 chrome-better-bookmark
 ======================
 
